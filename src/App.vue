@@ -1,11 +1,14 @@
 <script setup>
-import Login from './components/Login.vue';
+// import Login from './components/Login.vue';
+import Dashboard from './components/Dashboard.vue';
 </script>
 
 <template>
   <div>
 
-    <Login />
+    <Dashboard />
+    
+    <!-- <Login /> -->
 
   </div>
 </template>
