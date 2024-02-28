@@ -2,7 +2,6 @@
 import FormLayouts from './components/FormLayouts.vue';
 import Login from './components/Login.vue';
 import Dashboard from './components/Dashboard.vue';
-import Form from './components/Form.vue';
 
 
 </script>
@@ -19,6 +18,5 @@ import Form from './components/Form.vue';
 
     <FormLayouts />
 
-    <!-- <Form /> -->
   </div>
 </template>
