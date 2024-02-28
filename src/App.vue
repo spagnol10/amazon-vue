@@ -1,14 +1,12 @@
 <script setup>
-// import Login from './components/Login.vue';
-import Dashboard from './components/Dashboard.vue';
+import FormLayouts from './components/FormLayouts.vue';
+
 </script>
 
 <template>
   <div>
 
-    <Dashboard />
-    
-    <!-- <Login /> -->
+    <FormLayouts />
 
   </div>
 </template>
